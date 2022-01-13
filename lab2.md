@@ -1,15 +1,15 @@
 # Task
 
-*Let's*
+*Let's
 get
 this
 credit
 for
-yourself\
+yourself*\
 This
 is
 super
-fun
+**fun!**
 
 ![][1]
 
