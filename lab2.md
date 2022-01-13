@@ -1,7 +1,7 @@
 # Task
 
 *Let's*\
-_get_\ 
+get\ 
 this credit\ 
 for yourself\
 This is super fun
