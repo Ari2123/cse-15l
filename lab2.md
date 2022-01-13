@@ -13,4 +13,5 @@ fun
 
 ![][1]
 
-[1]: https://commonmark.org/help/images/favicon.png
+[1]: https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_18.jpg
+
