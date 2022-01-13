@@ -6,7 +6,7 @@ this
 credit
 for
 yourself
-This\ 
+This
 is
 super
 fun
