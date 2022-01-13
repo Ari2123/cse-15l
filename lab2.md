@@ -1,15 +1,15 @@
 # Task
 
 *Let's*\
-get\ 
-this\
-credit\ 
-for\ 
-yourself\
+get
+this
+credit
+for
+yourself
 This\ 
-is\ 
-super\ 
-fun\
+is
+super
+fun
 
 ![][1]
 
