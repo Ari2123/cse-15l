@@ -20,6 +20,7 @@ Once that is done, it should look something like this:
 3. Step #3: **Trying Some Commands**
 
 Next step is to try some commands such as "ls -a", "-a", "ls", "ls -i" and see what these commands do. The following is what the two commands ("ls -i" and "ls") that I used give:
+
 <img width="623" alt="Screen Shot 2022-01-14 at 7 30 45 PM" src="https://user-images.githubusercontent.com/97698918/149607992-357c88e1-1b17-4301-99b0-a162e39f5f7f.png">
 
 4. Step #4: **Moving Files with scp**
