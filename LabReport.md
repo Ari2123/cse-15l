@@ -5,6 +5,7 @@ This blog post will be a tutorial for incoming CSE-15L students regarding remote
 1. Step #1: **Installing VScode**
 
 Go on the visual studio code website and download it for your appropriate operating system. Once downloaded, it should look something like this:
+
 <img width="356" alt="Screen Shot 2022-01-14 at 7 15 07 PM" src="https://user-images.githubusercontent.com/97698918/149607977-8c6ff7c8-3740-4ee9-b8f9-fef48f6e9aeb.png">
 
 2. Step #2: **Remotely Connecting**
